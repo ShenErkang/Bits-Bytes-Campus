@@ -1,5 +1,7 @@
 > <!-- markdownlint-disable first-line-h1 -->
 >
+> ![logo](_media/icon.svg)
+>
 > # **Bits & Bytes Campus**
 >
 > 一个为你打开计算机网络世界大门的地方！
