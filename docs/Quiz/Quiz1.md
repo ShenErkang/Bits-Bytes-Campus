@@ -5,4 +5,4 @@
 
 以下为课堂小测1资源下载链接：
 
-- [课堂小测1 PDF 版](/Quiz/Quiz1.pdf)
+- [课堂小测1 PDF 版](https://shenerkang.github.io/Bits-Bytes-Campus/Quiz/Quiz1.pdf)

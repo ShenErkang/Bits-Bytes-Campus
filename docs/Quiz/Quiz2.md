@@ -6,4 +6,4 @@
 
 以下为课堂小测2资源下载链接：
 
-- [课堂小测2 PDF 版](/Quiz/Quiz2.pdf)
+- [课堂小测2 PDF 版](https://shenerkang.github.io/Bits-Bytes-Campus/Quiz/Quiz2.pdf)

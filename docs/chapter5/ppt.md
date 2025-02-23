@@ -261,7 +261,7 @@
 <span id="load">以下为本章 PPT 资源下载链接：</span>
 
 🔽 **PPT 版本**
-- [幻灯片 PDF 版](/chapter5/5_传输层.pdf)
-- [原始 PPT 文件](/chapter5/5_传输层.pptx)
+- [幻灯片 PDF 版](https://shenerkang.github.io/Bits-Bytes-Campus/chapter5/5_传输层.pdf)
+- [原始 PPT 文件](https://shenerkang.github.io/Bits-Bytes-Campus/chapter5/5_传输层.pptx)
 
 - ⚠️ **注意**：PPT 包含动画效果，PDF 版本可能缺失部分交互内容。
