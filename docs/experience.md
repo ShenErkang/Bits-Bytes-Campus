@@ -1,4 +1,7 @@
+# [实验指导文档](#load)
+
 ## 📒 在线预览
+
 ![page 1](./images/1.jpg)
 ![page 2](./images/2.jpg)
 ![page 3](./images/3.jpg)
@@ -24,7 +27,6 @@
 ![page 29](./images/29.jpg)
 ![page 30](./images/30.jpg)
 
+<span id="load">以下为实验指导文档资源下载链接：</span>
 
-以下为实验指导文档资源下载链接：
-
-- [实验指导文档 PDF 版](计算机网络实验教程.pdf)
+- [实验指导文档 PDF 版](http://localhost:3000/计算机网络实验教程.pdf)

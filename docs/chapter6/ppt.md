@@ -1,4 +1,4 @@
-# 第六章 PPT 课件
+# [第六章 PPT 课件](#load)
 
 ## 📒 在线预览
 ![page 1](./images/1.jpg)
@@ -307,10 +307,10 @@
 ![page 304](./images/304.jpg)
 ![page 305](./images/305.jpg)
 
-以下为本章 PPT 资源下载链接：
+<span id="load">以下为本章 PPT 资源下载链接：</span>
 
 🔽 **PPT 版本**
-- [幻灯片 PDF 版](./chapter6/assets/6_应用层.pdf)
-- [原始 PPT 文件](./chapter6/assets/6_应用层.pptx)
+- [幻灯片 PDF 版](http://localhost:3000/chapter6/6_应用层.pdf)
+- [原始 PPT 文件](http://localhost:3000/chapter6/6_应用层.pptx)
 
 - ⚠️ **注意**：PPT 包含动画效果，PDF 版本可能缺失部分交互内容。

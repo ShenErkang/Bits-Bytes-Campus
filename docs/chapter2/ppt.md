@@ -1,7 +1,6 @@
-# 第二章 PPT 课件
+# [第二章 PPT 课件](#load)
 
 ## 📒 在线预览
-
 
 ![page 1](./images/1.jpg)
 ![page 2](./images/2.jpg)
@@ -107,11 +106,11 @@
 
 ![page 102](./images/102.jpg)
 
-以下为本章 PPT 资源下载链接：
+<span id="load">以下为本章 PPT 资源下载链接：</span>
 
 🔽 **PPT 版本**
 
-- [幻灯片 PDF 版](./chapter2/assets/2_链路层和局域网.pdf)
-- [原始 PPT 文件](./chapter2/assets/2_链路层和局域网.pptx)
+- [幻灯片 PDF 版](http://localhost:3000/chapter2/2_链路层和局域网.pdf)
+- [原始 PPT 文件](http://localhost:3000/chapter2/2_链路层和局域网.pptx)
 
 - ⚠️ **注意**：PPT 包含动画效果，PDF 版本可能缺失部分交互内容。
